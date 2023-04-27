@@ -18,9 +18,9 @@ One could download the BigVul dataset at:
 We use <a href="https://jupyter.org/">Jupyter Notebook</a> to perform our experiments.
 There are three main files:
 <ol>
-  <li>[TF_IDF_and_Word2Vec.ipynb](TF_IDF_and_Word2Vec.ipynb): Preprocessing, training, and evaluating the approaches using TF-IDF and Word2Vec. We included Glove in that file, in case you are interested in playing around with Glove.</li>
-  <li>[CodeBERT.ipynb](CodeBERT.ipynb): Preprocessing, training, and evaluating the approach using pre-trained model CodeBERT</li>
-  <li>[ENHANCED.ipynb](ENHANCED.ipynb): Preprocessing and perform our enhancement method for VIT approaches</li>
+  <li>TF_IDF_and_Word2Vec.ipynb: Preprocessing, training, and evaluating the approaches using TF-IDF and Word2Vec. We included Glove in that file, in case you are interested in playing around with Glove.</li>
+  <li>CodeBERT.ipynb: Preprocessing, training, and evaluating the approach using pre-trained model CodeBERT</li>
+  <li>ENHANCED.ipynb: Preprocessing and perform our enhancement method for VIT approaches</li>
 </ol>
 
 For each file, you need to put the paths to the training, evaluating, and testing datasets in your machine. 
